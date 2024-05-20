@@ -1,4 +1,4 @@
-package com.example.todo_tasks;
+package com.example.QuickDo;
 
 import io.flutter.embedding.android.FlutterActivity;
 
